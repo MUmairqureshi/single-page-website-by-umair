@@ -16,7 +16,7 @@ const home = () => {
      <span> <button className='rounded-full mb-4 py-1 xl:text-2xl xl:p-2 xl:px-8 px-4 mt-4 bg-[#fdd368] '>Discover </button></span></div>
 <div>
 <div className=' sm:h-440 bg-gradient-to-br from-[#000000] mx-auto  max-md:h-[302px]  content-center  via-[rgb(199,158,55)]     to-[#000000] shrink-0  rounded-full md:h-[402px] xl:h-[540px]  md:w-116   aspect-square    justify-center   md:m-112 '>
-<Image src={hero} className=" md:h-[402px] lg:h-[402px] xl:h-[402px]    2xl:h-[602px]     mix-blend-overlay  justify-center   "/>
+<Image src={hero} className=" md:h-[402px] lg:h-[402px] xl:h-[602px]    2xl:h-[602px]     mix-blend-overlay  justify-center   "/>
 </div></div>
 </div>
     </div>
