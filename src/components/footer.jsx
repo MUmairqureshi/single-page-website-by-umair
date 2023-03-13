@@ -7,7 +7,7 @@ const footer = () => {
         <div className="w-full h-full bg-black mx-auto">
             <div className="container mx-auto   ">
                 <div className="  justify-center py-16 text-center">
-                    <h2 className="font-bold mb-6 mx-auto max-w-xs md:text-3xl text-center text-[#d0b267]">We'd Love To Talk With you
+                    <h2 className="font-bold mb-6 mx-auto max-w-xs md:text-3xl text-center text-[#d0b267]">We  would Love To Talk With you 
                     </h2>
                     <p className="bg-[#d6b153]  max-w-[144px] mx-auto  p-2 text-black mb-4 rounded-full ">
                         Ask for help</p>
